@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #778da9;
+}
+/* Chrome, Safari, Edge, Opera */input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {    -webkit-appearance: none;
+  margin: 0;}
+input[type=number] {
+  -moz-appearance: textfield;}
+::-webkit-scrollbar {
+  width: 10px;}
+::-webkit-scrollbar-track {
+  background: whitesmoke;}
+::-webkit-scrollbar-thumb {
+  background-color: #3E8EDE;    border-radius: 10px;
+}
