@@ -1,6 +1,6 @@
-# AI Chat Frontend
+# Chat Frontend
 
-An AI-powered online chat interface built with Next.js and React, designed to be integrated into a web-based healthcare and doctor appointment platform.
+An online chat interface built with Next.js and React, designed to be integrated into a web-based healthcare and doctor appointment platform.
 
 The application provides a responsive chat experience that allows users to communicate with an AI assistant directly through the website.
 
